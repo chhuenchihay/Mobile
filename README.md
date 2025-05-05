@@ -1,24 +1,15 @@
 # Portfolio
 
-This is my portfolio mobile project running with flutter and using my physical android tablet as emulator. It displays some informations such as</br>
-- Profile picture
-- Name
-- Role or job position
-- Short description 
-- Sidebar menu button
-- Hire me button ( Facebook )
-- Download CV button ( Linkedin )
+This is a simple login and register screen mobile project running with flutter.
+</br>
+- Clicking "Register" should navigate to the registration page. 
+- Clicking "Login" should navigate back to the login page. 
 
 # Features
-## home_page
+## Login Screen
 
-![alt text](profile.JPG)
+![alt text](image.png)
 
-## menu_drawer
-![alt text](Menu.JPG)
+## Register Screen
 
-## Hire me Button Navigation
-![alt text](FB.JPG)
-
-## Download CV Button Navigation
-![alt text](LinkedIn.JPG)
+![alt text](image-1.png)
